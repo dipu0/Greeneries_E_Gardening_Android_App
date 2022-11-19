@@ -1,6 +1,4 @@
-﻿2
-
-# Introduction:
+﻿# Introduction:
 Greeneries is an android application where users can purchase indoor and outdoor plants easily from the sellers, and also can get the service for helping in the plantation. This platform will be beneficial for both plant lover users and sellers of the plants for purchasing and selling at a reliable price. Our project is designed in a state so that it can be deployed in commercial utilization. People from cities especially do not get the opportunities to purchase indoor and outdoor plants which are grown in rural areas by our farmers also the rural farmers cannot get the opportunity to sell their plants to the enlarged group of customers. There are many Facebook pages available for purchasing plants but some of these are not reliable in both price and quality of the plant. To solve this, we are introducing “**Greeneries**” for the plant enthusiast and creating an easy and reliable platform for the sellers as well. Furthermore, users can get a service in terms of planting tips and tricks from our service providers.  
 
 # Related App:
@@ -11,9 +9,13 @@ We have tried to make our app as user-friendly as much as possible. The flowchar
 
 ![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.001.png)
 
+# Icon
+![icon](ScreenShots/icon_shop.png)
+
 # Overview of Greeneries App:
 
-![](Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.002.png)                                                 ![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.003.jpeg)
+
+![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.002.png)                                                 ![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.003.jpeg)
 
 Fig1: All product Activity                                                             Fig2: Blog Activity
 
@@ -21,9 +23,7 @@ Fig1: All product Activity                                                      
 
 Fig3: Register Activity (Seller, Buyer)                                 Fig4: Register Activity(Seller, Buyer)
 
-`    `![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.006.png)                                                      ![ScreenShots/Graphical user interface, application
-
-Description automatically generated](Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.007.png)    
+`    `![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.006.png)                                                      ![](ScreenShots/Aspose.Words.43fdb35e-a22b-4e8f-ae8d-5b5c2a14676a.007.png)    
 
 `          `Fig5: Splash Screen                                                                          Fig6: Login in
 
