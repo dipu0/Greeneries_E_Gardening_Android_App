@@ -61,3 +61,10 @@ There are multiple business models available through apps. Our business strategy
 
 # Conclusion:
 The Greeneries app is the first platform where the users and sellers come together for purchasing or selling indoor/ outdoor plants. This platform can be rebuilt by any community but for future work, we are planning to upgrade the blog sections, for the user-friendly approach of the app we are also planning initiatives with comment options, and chat options as well.
+
+
+## 🔗 Links
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MACD093/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asad-chowdhury-dipu/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dipu093)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.dipu0/)
